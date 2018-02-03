@@ -1,20 +1,10 @@
 
-### Coursera - Deep Learning AI
+### Coursera - Deep Learning Specialization 
 https://www.coursera.org/specializations/deep-learning
 
-**Neural Networks and Deep Learning**  
-<font size=1>Week1　Introduction to deep learning</font>  
-<font size=1>Week2　Neural Networks Basics</font>   
-<font size=1>Week3　Shallow Neural networks</font>   
-<font size=1>Week4　Deep Neural Networks</font>   
+[Neural Networks and Deep Learning](https://github.com/JanelChumley/coursera_deep_learning_ai/tree/master/neural_networks_and_deep_learning)
 
-**Improving Deep Neural Networks**  
-<font size=1>Week1　Practical aspects of Deep Learning(Initialization-Regularization-Gradient Checking)</font>  
-<font size=1>Week2　Optimization algorithms</font>  
-<font size=1>Week3　Hyperparameter tuning, Batch Normalization and Programming Frameworks</font>  
+[Improving Deep Neural Networks](https://github.com/JanelChumley/coursera_deep_learning_ai/tree/master/hyperparameter_tuning_regularization_and_optimization)
 
-**Convolutional Neural Network**  
-<font size=1>Week1　Foundations of Convolutional Neural Networks</font>  
-<font size=1>Week2　Deep convolutional models: case studies</font>  
-<font size=1>Week3　Object detection</font>  
-<font size=1>Week4　Special applications: Face recognition & Neural style transfer</font>  
+[Convolutional Neural Network](https://github.com/JanelChumley/coursera_deep_learning_ai/tree/master/convolutional_neural_networks)
+

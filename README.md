@@ -3,7 +3,7 @@
 
 About this specialization: https://www.coursera.org/specializations/deep-learning
 
-[Neural Networks and Deep Learning](https://github.com/JanelChumley/coursera_deep_learning_ai/tree/master/neural_networks_and_deep_learning)
+* [Neural Networks and Deep Learning](https://github.com/JanelChumley/coursera_deep_learning_ai/tree/master/neural_networks_and_deep_learning)
 
   * Logistic Regression
     * [Programming Assignment 1 - Python Basics with Numpy](https://github.com/JanelChumley/coursera_deep_learning_ai/blob/master/neural_networks_and_deep_learning/week2_logistic_regression/Python%2BBasics%2BWith%2BNumpy%2Bv3.ipynb)
@@ -21,7 +21,7 @@ About this specialization: https://www.coursera.org/specializations/deep-learnin
 
 
 
-[Improving Deep Neural Networks](https://github.com/JanelChumley/coursera_deep_learning_ai/tree/master/hyperparameter_tuning_regularization_and_optimization)
+* [Improving Deep Neural Networks](https://github.com/JanelChumley/coursera_deep_learning_ai/tree/master/hyperparameter_tuning_regularization_and_optimization)
   * Practical aspects of Deep Learning
     * [Programming Assignment 1 - Initialization](https://github.com/JanelChumley/coursera_deep_learning_ai/blob/master/hyperparameter_tuning_regularization_and_optimization/week1_regularization/Initialization.ipynb)
 
@@ -34,7 +34,7 @@ About this specialization: https://www.coursera.org/specializations/deep-learnin
   * Hyperparameter tuning, Batch Normalization and Programming Frameworks
     * [Programming Assignment - Tensorflow](https://github.com/JanelChumley/coursera_deep_learning_ai/blob/master/hyperparameter_tuning_regularization_and_optimization/week3_hyperparameter_tuning/Tensorflow%2BTutorial.ipynb)
 
-[Convolutional Neural Networks](https://github.com/JanelChumley/coursera_deep_learning_ai/tree/master/convolutional_neural_networks)
+* [Convolutional Neural Networks](https://github.com/JanelChumley/coursera_deep_learning_ai/tree/master/convolutional_neural_networks)
   * Foundations of Convolutional Neural Network
 
     * [Programming Assignment 1 - Convolutional Model: step by step](https://github.com/JanelChumley/coursera_deep_learning_ai/blob/master/convolutional_neural_networks/week1/Convolution%2Bmodel%2B-%2BApplication%2B-%2Bv1.ipynb)

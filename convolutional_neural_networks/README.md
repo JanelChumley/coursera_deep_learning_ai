@@ -2,7 +2,7 @@
 
 Course info: https://www.coursera.org/learn/convolutional-neural-networks
 
-**Programming Assignments:**
+**Modules:**
 
 * [Foundations of Convolutional Neural Networks](https://github.com/JanelChumley/coursera_deep_learning_ai/tree/master/convolutional_neural_networks/week1)
 

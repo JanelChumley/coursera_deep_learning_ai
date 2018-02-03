@@ -1,6 +1,13 @@
-**Convolutional Neural Network**  
+## Convolutional Neural Network
 
-<font size=1>Week1: Foundations of Convolutional Neural Networks</font>  
-<font size=1>Week2: Deep convolutional models: case studies</font>  
-<font size=1>Week3: Object detection</font>  
-<font size=1>Week4: Special applications: Face recognition & Neural style transfer</font>  
+Course info: https://www.coursera.org/learn/convolutional-neural-networks
+
+**Programming Assignments:**
+
+[Foundations of Convolutional Neural Networks](https://github.com/JanelChumley/coursera_deep_learning_ai/tree/master/convolutional_neural_networks/week1)
+
+[Deep convolutional models: case studies](https://github.com/JanelChumley/coursera_deep_learning_ai/tree/master/convolutional_neural_networks/week2)
+
+[Object detection](https://github.com/JanelChumley/coursera_deep_learning_ai/tree/master/convolutional_neural_networks/week3)
+
+[Special applications: Face recognition & Neural style transfer](https://github.com/JanelChumley/coursera_deep_learning_ai/tree/master/convolutional_neural_networks/week4)

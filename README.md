@@ -3,6 +3,8 @@
 
 About this specialization: https://www.coursera.org/specializations/deep-learning
 
+Courses:
+
 * [Neural Networks and Deep Learning](https://github.com/JanelChumley/coursera_deep_learning_ai/tree/master/neural_networks_and_deep_learning)
 
 * [Improving Deep Neural Networks](https://github.com/JanelChumley/coursera_deep_learning_ai/tree/master/hyperparameter_tuning_regularization_and_optimization)

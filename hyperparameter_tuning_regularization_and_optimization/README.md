@@ -1,7 +1,7 @@
 
 **Improving Deep Neural Networks**
 
-https://www.coursera.org/learn/deep-neural-network
+Course info: https://www.coursera.org/learn/deep-neural-network
 
 [Practical aspects of Deep Learning](https://github.com/JanelChumley/coursera_deep_learning_ai/tree/master/hyperparameter_tuning_regularization_and_optimization/week1_regularization)
 

@@ -1,5 +1,6 @@
-**Improving Deep Neural Networks**  
+**Convolutional Neural Network**  
 
-<font size=1>Week1: Practical aspects of Deep Learning(Initialization-Regularization-Gradient Checking)</font>  
-<font size=1>Week2: Optimization algorithms</font>  
-<font size=1>Week3: Hyperparameter tuning, Batch Normalization and Programming Frameworks</font>  
+<font size=1>Week1: Foundations of Convolutional Neural Networks</font>  
+<font size=1>Week2: Deep convolutional models: case studies</font>  
+<font size=1>Week3: Object detection</font>  
+<font size=1>Week4: Special applications: Face recognition & Neural style transfer</font>  
